@@ -12,6 +12,7 @@ Due to the closure of the HECO chain, we have migrated the Trustbase ecosystem t
 **原TBE(HECO)合约地址**: 0x0e0ba709a042618eb0d1ad8109b5f0e7dfb6a6c3
 
 **New TBE (BSC) Contract Address**: 0x11179491eD7fC09099e40339f08b56D52Ec8dD63
+
 **新TBE(BSC)合约地址**: 0x11179491eD7fC09099e40339f08b56D52Ec8dD63
 
 **TBE Asset Migration Application Form
