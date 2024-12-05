@@ -1,8 +1,8 @@
-# Announcement: Migration of Trustbase Project to BSC Chain
-# 关于Trustbase项目迁移至BSC链的公告
+### Announcement: Migration of Trustbase Project to BSC Chain
+### 关于Trustbase项目迁移至BSC链的公告
 
-## Dear Trustbase Community,
-## 尊敬的Trustbase社区用户：
+#### Dear Trustbase Community,
+#### 尊敬的Trustbase社区用户：
 
 Due to the closure of the HECO chain, we have migrated the Trustbase ecosystem to the BSC chain to ensure asset liquidity and transaction convenience. To complete the migration, please click the form link below and provide the required information. The migration will be processed within 7-10 business days.
 由于HECO链已关闭，为保障用户资产流动性及交易便利性，我们已将Trustbase生态迁移至BSC链。如需完成资产迁移，请点击以下表单链接填写相关信息，我们将在7-10个工作日内为您完成换币操作。
